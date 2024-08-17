@@ -29,7 +29,7 @@ terminal-border: "2px"
 	width = 50%
 	height = 30
 
-	text = "Copyright (C) 2020-"
+	text = "Copywrite (D) 2024-"
 	font = "IBM VGA 26"
 	align = "left"
 	color = "#aaaaaa"
@@ -119,7 +119,7 @@ terminal-border: "2px"
 	height = 14
 
 	text = "v1.0.0"
-	font = "IBM VGA 12"
+	font = "IBM VGA 24"
 	color = "#aaaaaa"
 	align = "left"
 }
