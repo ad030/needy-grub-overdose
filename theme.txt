@@ -97,7 +97,7 @@ terminal-border: "2px"
 	width = 50%
 	height = 30
 
-	text = "Booting Windose20 in %d seconds"
+	text = "Booting Windose20 in %d seconds..."
 	font = "IBM BIOS 24"
 	align = "left"
 	color = "#aaaaaa"
