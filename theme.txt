@@ -1,10 +1,10 @@
 title-text: ""
-title-font: "IBM VGA 26"
+title-font: "AcPlus IBM VGA 8x14 Regular 26"
 title-color: "#aaaaaa"
 
 desktop-color: "#000000"
 
-terminal-font: "IBM VGA 26"
+terminal-font: "AcPlus IBM VGA 8x14 Regular 26"
 terminal-left: "0%"
 terminal-top: "0%"
 terminal-width: "100%"
@@ -18,7 +18,7 @@ terminal-border: "2px"
 	height = 30
 
 	text = "Needy Grub Overload"
-	font = "IBM VGA 26"
+	font = "AcPlus IBM VGA 8x14 Regular 26"
 	align = "left"
 	color = "#aaaaaa"
 }
@@ -30,7 +30,7 @@ terminal-border: "2px"
 	height = 30
 
 	text = "Copywrite (D) 2024-"
-	font = "IBM VGA 26"
+	font = "AcPlus IBM VGA 8x14 Regular 26"
 	align = "left"
 	color = "#aaaaaa"
 
@@ -43,7 +43,7 @@ terminal-border: "2px"
 	height = 30
 
 	text = "NGO BIOS Rev1.0"
-	font = "IBM VGA 26"
+	font = "AcPlus IBM VGA 8x14 Regular 26"
 	align = "left"
 	color = "#aaaaaa"
 }
@@ -55,7 +55,7 @@ terminal-border: "2px"
 	height = 30
 
 	text = "Main Processor : raincandy"
-	font = "IBM VGA 26"
+	font = "AcPlus IBM VGA 8x14 Regular 26"
 	align = "left"
 	color = "#aaaaaa"
 }
@@ -68,7 +68,7 @@ terminal-border: "2px"
 
 
 	text = "Memory Testing : OK"
-	font = "IBM VGA 26"
+	font = "AcPlus IBM VGA 8x14 Regular 26"
 	align = "left"
 	color = "#aaaaaa"
 }
@@ -83,9 +83,9 @@ terminal-border: "2px"
 	item_padding = 2
 	item_spacing = 4
 
-	item_font = "IBM VGA 26"
+	item_font = "AcPlus IBM VGA 8x14 Regular 26"
 	item_color = "#aaaaaa"
-	selected_item_font = "IBM VGA 26"
+	selected_item_font = "AcPlus IBM VGA 8x14 Regular 26"
 	selected_item_color = "#ffffff"
 }
 
@@ -98,14 +98,14 @@ terminal-border: "2px"
 	height = 30
 
 	text = "Booting Windose20 in %d seconds..."
-	font = "IBM BIOS 24"
+	font = "AcPlus IBM BIOS Regular 24"
 	align = "left"
 	color = "#aaaaaa"
 }
 
 + image {
-	left = 74%
-	top = 3%
+	left = 74%-3
+	top = 3%+2
 	width = 21%
 	height = 15%
 
@@ -113,13 +113,13 @@ terminal-border: "2px"
 }
 
 + label {
-	left = 83%
+	left = 83%+5
 	top = 21%
-	width = 21%
+	width = 15%
 	height = 14
 
 	text = "v1.0.0"
-	font = "IBM VGA 24"
+	font = "AcPlus IBM VGA 8x14 Regular 16"
 	color = "#aaaaaa"
 	align = "left"
 }
