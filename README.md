@@ -7,10 +7,10 @@ Also known as 'Needy Girl Overdose'.
 
 ## Fonts
 
-Fonts used are from [int10h.org](https://int10h.org/oldschool-pc-fonts/), created by VileR.
+Fonts used are:
 
-- IBM VGA 8x14
-- IBM BIOS
+- IBM VGA 8x14, by [VileR](https://int10h.org/oldschool-pc-fonts/)
+- IBM BIOS, by [VileR](https://int10h.org/oldschool-pc-fonts/)
 
 ## Installation
 
