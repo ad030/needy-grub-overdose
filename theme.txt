@@ -79,9 +79,9 @@ terminal-border: "2px"
 	width = 50%
 	height = 25%
 
-	item_height = 16
+	item_height = 26
 	item_padding = 2
-	item_spacing = 4
+	item_spacing = 6
 
 	item_font = "AcPlus IBM VGA 8x14 Regular 26"
 	item_color = "#aaaaaa"
